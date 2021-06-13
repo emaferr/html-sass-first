@@ -1,0 +1,9 @@
+body {
+    background-color: darkgrey;
+}
+
+$colore_testo: rgb(204, 29, 29);
+
+p, input{
+    color: $colore_testo;
+}
